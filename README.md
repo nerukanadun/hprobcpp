@@ -16,10 +16,6 @@ int getHeight() - Return box's height
 long long CalculateVolume() - Return the volume of the box
 Overload the operator  for the class Box. Box   Box  if:
 
- < 
- <  and ==
- <  and == and ==
-Overload operator  for the class Box().
-If  is an object of class Box:
+ 
 
  should print ,  and  on a single line separated by spaces.
