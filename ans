@@ -40,7 +40,7 @@ class Box{
         }else{
             return false;
         }
-    };
+    }
     
     friend ostream& operator<< (ostream& output, const Box& B){
         output << B.l << " " << B.b << " " << B.h;
