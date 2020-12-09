@@ -15,5 +15,5 @@ int getBreadth() - Return box's breadth
 int getHeight() - Return box's height
 long long CalculateVolume() - Return the volume of the box
 
-Overload the operator  for the class Box. Box   Box  if:
+Overload the operator  for the class Box. 
 
