@@ -12,6 +12,7 @@ class Box{
     }
     Box(int length, int breadth, int height){
         l = length;
+	
         b = breadth;
         h = height;
     }
